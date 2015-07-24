@@ -24,7 +24,8 @@ The goal of this repo is to collect a mass of online and physical resources for 
 - Express
   -
 - Node.js & IO.js
- - Learnyounode - https://github.com/workshopper/learnyounode
+  - Getting Started with node (huge list of stuff) - http://stackoverflow.com/questions/2353818/how-do-i-get-started-with-node-js
+  - Learnyounode - https://github.com/workshopper/learnyounode
 
 ###IOS
 - Objective-C
