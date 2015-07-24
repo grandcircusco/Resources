@@ -11,9 +11,9 @@ Please list specific items rather than general recommendations (i.e. 'you should
 - Angular Directives - Part 2
 - Backbone.js
 - CoffeeScript
+ - Hard Rock CoffeeScript - http://hardrockcoffeescript.org
 - Express
-- Node.js
-
+- Node.js & IO.js
 
 ###IOS
 - Objective-C
@@ -22,11 +22,19 @@ Please list specific items rather than general recommendations (i.e. 'you should
 ###Miscellaneous
 - Software Craftsmanship
 - Functional Programming
+- Podcasts
+ - http://fullstackradio.com
+- Learning
+ - Team Treehouse - https://teamtreehouse.com (paid)
 
 ###PHP
 - General
+ - PHP the Right Way - http://www.phptherightway.com/
 - Slim
 - Laravel
+ - http://www.laravelpodcast.com/
+- Lumen
+ - http://www.laravelpodcast.com/
 
 ###Preprocessors
 - Sass
@@ -38,5 +46,13 @@ Please list specific items rather than general recommendations (i.e. 'you should
 - Django
 - Flask
 
+###Server Administration / Local Development
+- General
+ - https://serversforhackers.com (The book is great)
+- Vagrant
+ - https://scotch.io/tutorials/get-vagrant-up-and-running-in-no-time
+ - https://serversforhackers.com/video/up-and-running-with-vagrant
 
-
+###APIs
+- Planning / Best Practices
+  - https://leanpub.com/build-apis-you-wont-hate
