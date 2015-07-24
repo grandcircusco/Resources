@@ -9,6 +9,9 @@ The goal of this repo is to collect a mass of online and physical resources for 
 
 ###JavaScript
 - General
+  - Eloquent JavaScript (free eBook) - http://www.eloquentjavascript.com
+  - Learning JavaScript (free eBook) - http://addyosmani.com/resources/essentialjsdesignpatterns/book/
+  - ToDoMVC - http://todomvc.com
 - Angular.js
   - Directives
     - A Practical Guide to Angular Directives, Part 1 - http://www.sitepoint.com/practical-guide-angularjs-directives/
