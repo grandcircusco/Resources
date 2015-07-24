@@ -24,14 +24,17 @@ The goal of this repo is to collect a mass of online and physical resources for 
 - Express
   -
 - Node.js & IO.js
- - https://github.com/workshopper/learnyounode
+ - Learnyounode - https://github.com/workshopper/learnyounode
 
 ###IOS
 - Objective-C
 - Swift
+  - Building an iOS app with Swift, https://www.airpair.com/swift/building-swift-app-tutorial
 
 ###Miscellaneous
 - Software Craftsmanship
+  -
+  - Understanding the Rules of Simple Design, Corey Haines (not-free book) - https://leanpub.com/4rulesofsimpledesign
 - Functional Programming
 - Podcasts
  - http://fullstackradio.com
@@ -45,6 +48,8 @@ The goal of this repo is to collect a mass of online and physical resources for 
  - PHP the Right Way - http://www.phptherightway.com/
  - awesome-php - https://github.com/ziadoz/awesome-php
 - Slim
+  - Taming Slim 2.0 - http://code.tutsplus.com/tutorials/taming-slim-20--net-30669
+  - Slim PHP Microframework (Conference Talk) - https://www.youtube.com/watch?v=yEA0VWHCFac
 - Laravel
  - http://www.laravelpodcast.com/
 - Lumen
