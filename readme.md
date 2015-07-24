@@ -33,7 +33,7 @@ The goal of this repo is to collect a mass of online and physical resources for 
 
 ###Miscellaneous
 - Software Craftsmanship
-  -
+  - Rules of Simple Design, Game of Life examples - https://www.youtube.com/watch?v=ooIy0yk44t8
   - Understanding the Rules of Simple Design, Corey Haines (not-free book) - https://leanpub.com/4rulesofsimpledesign
 - Functional Programming
 - Podcasts
