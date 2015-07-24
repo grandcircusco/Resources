@@ -14,6 +14,7 @@ Please list specific items rather than general recommendations (i.e. 'you should
  - Hard Rock CoffeeScript - http://hardrockcoffeescript.org
 - Express
 - Node.js & IO.js
+ - https://github.com/workshopper/learnyounode
 
 ###IOS
 - Objective-C
