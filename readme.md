@@ -35,6 +35,7 @@ The goal of this repo is to collect a mass of online and physical resources for 
 ###PHP
 - General
  - PHP the Right Way - http://www.phptherightway.com/
+ - awesome-php - https://github.com/ziadoz/awesome-php
 - Slim
 - Laravel
  - http://www.laravelpodcast.com/
