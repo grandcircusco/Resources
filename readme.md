@@ -52,6 +52,7 @@ The goal of this repo is to collect a mass of online and physical resources for 
 
 ###Preprocessors
 - Sass
+  - Get Sassy with CSS - http://sassshop.com
 - Stylus
 - Jade
 
