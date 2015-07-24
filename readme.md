@@ -58,8 +58,8 @@ The goal of this repo is to collect a mass of online and physical resources for 
 ###Preprocessors
 - Sass
   - Get Sassy with CSS - http://sassshop.com
-- Stylus
-- Jade
+- Stylus / Jade
+  - Express, Jade, Stylus Demo [Node.js] - http://code.runnable.com/U_kP7TNQ2DxbGg7d/express-jade-stylus-demo-for-node-js
 
 ###Python
 - General
