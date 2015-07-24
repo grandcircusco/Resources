@@ -15,9 +15,10 @@ The goal of this repo is to collect a mass of online and physical resources for 
     -[A Practical Guide to Angular Directives - Part 2](http://www.sitepoint.com/practical-guide-angularjs-directives-part-two/)
 - Backbone.js
 - CoffeeScript
+ - Hard Rock CoffeeScript - http://hardrockcoffeescript.org
 - Express
-- Node.js
-
+- Node.js & IO.js
+ - https://github.com/workshopper/learnyounode
 
 ###IOS
 - Objective-C
@@ -26,11 +27,19 @@ The goal of this repo is to collect a mass of online and physical resources for 
 ###Miscellaneous
 - Software Craftsmanship
 - Functional Programming
+- Podcasts
+ - http://fullstackradio.com
+- Learning
+ - Team Treehouse - https://teamtreehouse.com (paid)
 
 ###PHP
 - General
+ - PHP the Right Way - http://www.phptherightway.com/
 - Slim
 - Laravel
+ - http://www.laravelpodcast.com/
+- Lumen
+ - http://www.laravelpodcast.com/
 
 ###Preprocessors
 - Sass
@@ -42,5 +51,13 @@ The goal of this repo is to collect a mass of online and physical resources for 
 - Django
 - Flask
 
+###Server Administration / Local Development
+- General
+ - https://serversforhackers.com (The book is great)
+- Vagrant
+ - https://scotch.io/tutorials/get-vagrant-up-and-running-in-no-time
+ - https://serversforhackers.com/video/up-and-running-with-vagrant
 
-
+###APIs
+- Planning / Best Practices
+  - https://leanpub.com/build-apis-you-wont-hate
