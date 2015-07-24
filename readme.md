@@ -34,6 +34,8 @@ The goal of this repo is to collect a mass of online and physical resources for 
  - http://fullstackradio.com
 - Learning
  - Team Treehouse - https://teamtreehouse.com (paid)
+- Lists of Resources
+ - https://github.com/sindresorhus/awesome
 
 ###PHP
 - General
