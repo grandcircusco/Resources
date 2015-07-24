@@ -37,10 +37,13 @@ The goal of this repo is to collect a mass of online and physical resources for 
  - http://fullstackradio.com
 - Learning
  - Team Treehouse - https://teamtreehouse.com (paid)
+- Lists of Resources
+ - https://github.com/sindresorhus/awesome
 
 ###PHP
 - General
  - PHP the Right Way - http://www.phptherightway.com/
+ - awesome-php - https://github.com/ziadoz/awesome-php
 - Slim
 - Laravel
  - http://www.laravelpodcast.com/
