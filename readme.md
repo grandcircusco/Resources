@@ -42,7 +42,7 @@ The goal of this repo is to collect a mass of online and physical resources for 
 - Learning
  - [Team Treehouse (paid)](https://teamtreehouse.com)
 - Lists of Resources
- - [Awesome list of Awesome](https://github.com/sindresorhus/awesome)
+ - [Awesome list of Awesome](https://github.com/sindresorhus/awesome) (Huge & Comprehensive)
 
 ###PHP
 - General
