@@ -11,8 +11,8 @@ The goal of this repo is to collect a mass of online and physical resources for 
 - General
 - Angular.js
   - Directives
-    -[A Practical Guide to Angular Directives - Part 1](http://www.sitepoint.com/practical-guide-angularjs-directives/)
-    -[A Practical Guide to Angular Directives - Part 2](http://www.sitepoint.com/practical-guide-angularjs-directives-part-two/)
+    - A Practical Guide to Angular Directives, Part 1 - http://www.sitepoint.com/practical-guide-angularjs-directives/
+    - A Practical Guide to Angular Directives, Part 2 - http://www.sitepoint.com/practical-guide-angularjs-directives-part-two/
 - Backbone.js
 - CoffeeScript
  - Hard Rock CoffeeScript - http://hardrockcoffeescript.org
