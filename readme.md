@@ -27,6 +27,8 @@ Please list specific items rather than general recommendations (i.e. 'you should
  - http://fullstackradio.com
 - Learning
  - Team Treehouse - https://teamtreehouse.com (paid)
+- Lists
+ - https://github.com/sindresorhus/awesome
 
 ###PHP
 - General
