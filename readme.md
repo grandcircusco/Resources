@@ -1,5 +1,7 @@
 ##Programming Resources!
 
+![Programming!](programming.gif)
+
 The goal of this repo is to collect a mass of online and physical resources for our students here at Grand Circus. Because we believe in the power of Open Source we are opening the repo to the world and letting anyone contribute. For now we will keep all of the resources in this readme file.
 
 **Guidelines**
