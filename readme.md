@@ -70,10 +70,12 @@ The goal of this repo is to collect a mass of online and physical resources for 
 
 ###Server Administration / Local Development
 - General
- - [Servers for Hackers](https://serversforhackers.com)(The book is great)
+  - [Servers for Hackers](https://serversforhackers.com)(The book is great)
+-Terminal
+  - [The Command Line Crash Course](http://cli.learncodethehardway.org/book/) - Good beginner intro to using the terminal
 - Vagrant
- - [Get Vagrant Up and Running](https://scotch.io/tutorials/get-vagrant-up-and-running-in-no-time)
- - [Up and Running with Vagrant](https://serversforhackers.com/video/up-and-running-with-vagrant)
+  - [Get Vagrant Up and Running](https://scotch.io/tutorials/get-vagrant-up-and-running-in-no-time)
+  - [Up and Running with Vagrant](https://serversforhackers.com/video/up-and-running-with-vagrant)
 
 ###APIs
 - Planning / Best Practices
