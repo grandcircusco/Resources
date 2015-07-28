@@ -73,7 +73,7 @@ The goal of this repo is to collect a mass of online and physical resources for 
 ###Server Administration / Local Development
 - General
   - [Servers for Hackers](https://serversforhackers.com)(The book is great)
--Terminal
+- Terminal
   - [The Command Line Crash Course](http://cli.learncodethehardway.org/book/) - Good beginner intro to using the terminal
   - [Learning the Shell](http://linuxcommand.org/lc3_learning_the_shell.php) - Looks like a more intermediate tour of the shell. Linux specific but should work for OSX as well.
 - Vagrant
