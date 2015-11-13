@@ -103,6 +103,7 @@ The goal of this repo is to collect a mass of online and physical resources for 
 
   1. Intermediate
     - [Project Euler](https://projecteuler.net/)
+    - [nodeschool.io](http://nodeschool.io/) - collection of node tutorials worked from the terminal.
 
   1. Advanced
     - [Screeps](https://screeps.com/) - An MMO for programmers.
