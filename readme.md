@@ -29,6 +29,7 @@ The goal of this repo is to collect a mass of online and physical resources for 
   - [Getting Started with node (huge list of stuff)](http://stackoverflow.com/questions/2353818/how-do-i-get-started-with-node-js)
   - [Learnyounode](https://github.com/workshopper/learnyounode)
 
+
 ###IOS
 - Objective-C
 - Swift
@@ -84,3 +85,26 @@ The goal of this repo is to collect a mass of online and physical resources for 
 ###APIs
 - Planning / Best Practices
   - [Build APIs You Won't Hate](https://leanpub.com/build-apis-you-wont-hate)
+
+###Practice
+  1. Beginner
+    - [W3 Resources - HTML, CSS](http://www.w3resource.com/html-css-exercise/index.php)
+    - [W3 Resources - JavaScript](http://www.w3resource.com/javascript-exercises/)
+    - [W3 Resources - jQuery](http://www.w3resource.com/jquery-exercises/)
+    - [Bonfire](http://www.freecodecamp.com/challenges/bonfire-meet-bonfire)
+    - [Code Wars](http://codewars.com/)
+    - [Code Fight](http://codefights.com/)
+
+
+  1. Intermediate
+    - [Project Euler](https://projecteuler.net/)
+
+  1. Advanced
+    - [Screeps](https://screeps.com/) - An MMO for programmers.
+    - [Fruit Robots](http://fruitbots.herokuapp.com/) - Program tiny robots to collect fruit and compete with other bots.
+
+
+
+
+
+
