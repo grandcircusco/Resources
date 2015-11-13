@@ -71,6 +71,11 @@ The goal of this repo is to collect a mass of online and physical resources for 
 - Flask
   - [Flask Project Tutorial](http://flask.pocoo.org/docs/0.10/tutorial/)
 
+###Java
+- [CodingBat](http://codingbat.com/)
+- [Object Oriented Porgramming with Java](http://mooc.fi/courses/2013/programming-part-1/)
+- [Oracle Tutorials](http://docs.oracle.com/javase/tutorial/java/)
+
 ###Server Administration / Local Development
 - General
   - [Servers for Hackers](https://serversforhackers.com)(The book is great)
