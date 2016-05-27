@@ -33,6 +33,7 @@ The goal of this repo is to collect a mass of online and physical resources for 
 ###IOS
 - Objective-C
 - Swift
+  - [Hacking with Swift] (https://www.hackingwithswift.com) Really good tutorials that you can also buy in book form...if you want
   - [Building an iOS app with Swift](https://www.airpair.com/swift/building-swift-app-tutorial)
 
 ###Miscellaneous
