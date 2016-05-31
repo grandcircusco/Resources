@@ -1,3 +1,5 @@
+#James is a big dum-dum
+
 ##Programming Resources!
 
 ![Programming!](programming.gif)
